@@ -1,4 +1,4 @@
-#Crie um programa q leia o nome completo de uma pessoa e retorne ( O nome com todas letras maiusculas ), ( O nome com todas letras minusculas ), (Quantas letras ao todo sem considerar espaços)
+#Crie um programa q leia o nome completo de uma pessoa e retorne ( O nome com todas letras maiusculas ), ( O nome com todas letras minusculas ), (Quantas letras totais sem considerar espaços)
 #( Quantas letras tem o primeiro nome )
 
 print('--- DESAFIO DO NOME ---')
