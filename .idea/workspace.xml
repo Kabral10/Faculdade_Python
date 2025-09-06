@@ -4,13 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="822202dc-a829-4654-93bc-ba596e76bc1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Faculdade_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld.py" afterDir="false" />
+    <list default="true" id="822202dc-a829-4654-93bc-ba596e76bc1a" name="Changes" comment="First commit!">
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +68,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kabral10"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kabral10/Faculdade_Python.git",
+    "accountId": "f758fa43-9a62-4436-9dea-d80bf2ea38ca"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -42,6 +95,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Faculdade_Python/DesafiosPython",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +104,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Faculdade_Python\DesafiosPython" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Faculdade_Python" />
@@ -89,8 +148,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757171320106</updated>
-      <workItem from="1757171331883" duration="1199000" />
+      <workItem from="1757171331883" duration="3238000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit!">
+      <option name="closed" value="true" />
+      <created>1757172595644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757172595644</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +174,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Faculdade_Python$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1757171781332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
