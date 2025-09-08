@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="822202dc-a829-4654-93bc-ba596e76bc1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesafiosPython/Desafio47.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Faculdade_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Faculdade_Python.iml" afterDir="false" />
+    <list default="true" id="822202dc-a829-4654-93bc-ba596e76bc1a" name="Changes" comment="correção ( Desafio47.py )&#10;Novos desafios ( 48 a 55 )">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +58,11 @@
     "Python.Desafio53.executor": "Run",
     "Python.Desafio54.executor": "Run",
     "Python.Desafio55.executor": "Run",
+    "Python.Desafio56.executor": "Run",
+    "Python.Desafio57.executor": "Run",
+    "Python.Desafio58.executor": "Run",
+    "Python.Desafio59.executor": "Run",
+    "Python.Desafio60.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -97,7 +100,9 @@
       <updated>1757171320106</updated>
       <workItem from="1757171331883" duration="5008000" />
       <workItem from="1757244768117" duration="85000" />
-      <workItem from="1757244881489" duration="9524000" />
+      <workItem from="1757244881489" duration="10285000" />
+      <workItem from="1757346132786" duration="1534000" />
+      <workItem from="1757356196504" duration="12443000" />
     </task>
     <task id="LOCAL-00001" summary="First commit!">
       <option name="closed" value="true" />
@@ -123,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757177921388</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="correção ( Desafio47.py )&#10;Novos desafios ( 48 a 55 )">
+      <option name="closed" value="true" />
+      <created>1757254764522</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757254764522</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,19 +157,25 @@
     <MESSAGE value="First commit!" />
     <MESSAGE value="Desafios já feitos" />
     <MESSAGE value="Correção (todo)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correção (todo)" />
+    <MESSAGE value="correção ( Desafio47.py )&#10;Novos desafios ( 48 a 55 )" />
+    <option name="LAST_COMMIT_MESSAGE" value="correção ( Desafio47.py )&#10;Novos desafios ( 48 a 55 )" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio55.coverage" NAME="Desafio55 Coverage Results" MODIFIED="1757254622678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
-    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio52.coverage" NAME="Desafio52 Coverage Results" MODIFIED="1757252591499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
+    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio60.coverage" NAME="Desafio60 Coverage Results" MODIFIED="1757368192738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
     <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio50.coverage" NAME="Desafio50 Coverage Results" MODIFIED="1757250005952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
     <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio41.coverage" NAME="Desafio41 Coverage Results" MODIFIED="1757250798787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
+    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio56.coverage" NAME="Desafio56 Coverage Results" MODIFIED="1757357595251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
     <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio47.coverage" NAME="Desafio47 Coverage Results" MODIFIED="1757245789446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
     <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio51.coverage" NAME="Desafio51 Coverage Results" MODIFIED="1757251510965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
     <SUITE FILE_PATH="coverage/Faculdade_Python$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1757244997343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio49.coverage" NAME="Desafio49 Coverage Results" MODIFIED="1757248049456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
+    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio49.coverage" NAME="Desafio49 Coverage Results" MODIFIED="1757358914019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
+    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio59.coverage" NAME="Desafio59 Coverage Results" MODIFIED="1757365945319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
+    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio55.coverage" NAME="Desafio55 Coverage Results" MODIFIED="1757346447283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
+    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio52.coverage" NAME="Desafio52 Coverage Results" MODIFIED="1757252591499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
+    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio58.coverage" NAME="Desafio58 Coverage Results" MODIFIED="1757362690673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
     <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio54.coverage" NAME="Desafio54 Coverage Results" MODIFIED="1757253382574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
     <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio48.coverage" NAME="Desafio48 Coverage Results" MODIFIED="1757246296995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
     <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio53.coverage" NAME="Desafio53 Coverage Results" MODIFIED="1757253019063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
+    <SUITE FILE_PATH="coverage/Faculdade_Python$Desafio57.coverage" NAME="Desafio57 Coverage Results" MODIFIED="1757359463013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafiosPython" />
   </component>
 </project>
